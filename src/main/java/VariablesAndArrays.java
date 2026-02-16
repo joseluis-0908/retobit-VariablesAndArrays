@@ -26,7 +26,7 @@ public class VariablesAndArrays {
         boolean isActive = true;
 
         // Sustituye el false por tu variable
-        return true;
+        return isActive;
     }
 
     /**
@@ -42,7 +42,7 @@ public class VariablesAndArrays {
 
 
         // Sustituye el espacio por tu variable
-        return 'J';
+        return initial;
     }
 
     /**
